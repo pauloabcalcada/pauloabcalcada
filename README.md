@@ -2,7 +2,7 @@
 
 I'm Paulo, a Data Scientist from Brazil.
 
-- 👨‍⚕️ I have 6+ years of experience with data analysis, primarily in the logistics and HR sectors.
+- 👨‍⚕️ I have 7+ years of experience with data analysis.
 - 🧑‍🎓 I am a certified Six Sigma Black Belt. (a lot of statistics!)
 - ❤️ I am passionate about creating value through data science and automation.
 - 🐶 I have a Westie dog named Snow.
