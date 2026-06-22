@@ -1,6 +1,6 @@
 # Paulo Calçada
 
-Data Analytics Lead at Oi S/A. 7 years in data, building toward AI Engineering.
+Senior Data Analyst. 7 years in data, building toward AI Engineering.
 
 I build automation and data systems for large organizations — from statistical models and automated reporting pipelines to AI agents and production backends. Lean Six Sigma Black Belt. Civil Engineering (UFRJ), MBA (FGV).
 
