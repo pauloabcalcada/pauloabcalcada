@@ -1,6 +1,6 @@
 # Paulo Calçada
 
-Senior Data Analyst. 7 years in data, building toward AI Engineering.
+AI Engineer. Previously 7+ Years in Data & Analytics.
 
 I build automation and data systems for large organizations — from statistical models and automated reporting pipelines to AI agents and production backends. Lean Six Sigma Black Belt. Civil Engineering (UFRJ), MBA (FGV).
 
