@@ -2,7 +2,7 @@
 
 AI Engineer. Previously 7+ Years in Data & Analytics.
 
-I build automation and data systems for large organizations — from statistical models and automated reporting pipelines to AI agents and production backends. Lean Six Sigma Black Belt. Civil Engineering (UFRJ), MBA (FGV).
+Data & AI leader building scalable automation systems for enterprise environments. Experienced across AI agents, backend engineering, analytics, statistical modeling, and workflow automation. Lean Six Sigma Black Belt. Civil Engineer (UFRJ), MBA (FGV).
 
 ---
 
